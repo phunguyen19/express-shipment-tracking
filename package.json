@@ -1,0 +1,26 @@
+{
+  "name": "express-shipment-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CustomError.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "q": "^1.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/phu.nguyen25/express-shipment-tracking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/phu.nguyen25/express-shipment-tracking/issues"
+  },
+  "homepage": "https://gitlab.com/phu.nguyen25/express-shipment-tracking#readme"
+}
